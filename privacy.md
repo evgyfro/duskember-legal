@@ -18,7 +18,8 @@ progress stay on your device.
 - A short log of the last few errors the Game ran into (error messages
   only), so you can include it when you report a problem.
 - A list of your last 50 runs (date, hero, difficulty, time, level, kills,
-  win or loss), so you can include it when you report a problem.
+  gold, mastery, win or loss), so you can include it when you report a
+  problem.
 
 This data never leaves your device through the Game. Android may include it
 in your device backup if you have backups turned on; that is handled by
