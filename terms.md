@@ -1,9 +1,9 @@
 # Terms of Service
 
-Last updated: 23 October 2026
+Last updated: 30 October 2026
 
 These terms are an agreement between you and Jevģēnijs Māris Frolenkovs
-("we", "us") about the game DuskEmber (the "Game"). By installing or playing
+("we", "us") about the game Emberdusk, formerly DuskEmber (the "Game"). By installing or playing
 the Game you accept them. If you don't accept them, don't use the Game.
 
 ## 1. Who can play

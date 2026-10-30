@@ -2,7 +2,8 @@
 
 Last updated: 30 October 2026
 
-This policy explains what information the game DuskEmber (the "Game")
+This policy explains what information the game Emberdusk, formerly
+DuskEmber (the "Game")
 handles. The Game is made by Jevģēnijs Māris Frolenkovs ("we", "us"), Riga,
 Latvia, who is the data controller under the EU General Data Protection
 Regulation (GDPR).
