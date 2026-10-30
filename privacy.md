@@ -17,6 +17,8 @@ progress stay on your device.
 - Your progress and a saved run, so you can continue after closing the Game.
 - A short log of the last few errors the Game ran into (error messages
   only), so you can include it when you report a problem.
+- A list of your last 50 runs (date, hero, difficulty, time, level, kills,
+  win or loss), so you can include it when you report a problem.
 
 This data never leaves your device through the Game. Android may include it
 in your device backup if you have backups turned on; that is handled by
@@ -24,7 +26,8 @@ Google under your Google account settings.
 
 If you tap **Report a problem** in Settings, the Game opens your email app
 with a draft to evgenyfrolenkov@gmail.com containing the Game's version,
-your phone's model and Android version, and that error log. Nothing is sent
+your phone's model and Android version, that error log and your recent
+runs. Nothing is sent
 unless you send the email yourself. We use it only to fix the problem and
 delete it when we're done.
 
